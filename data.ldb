@@ -1,0 +1,14 @@
+class game
+ header lifes
+  5
+  .
+ header hunger
+  5
+  .
+ header supplies
+  1
+  .
+ header points
+  0
+  .
+ .
